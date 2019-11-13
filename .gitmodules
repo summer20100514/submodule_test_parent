@@ -1,0 +1,4 @@
+[submodule "Folder_A/Folder_A_B/submodule_test_child_repo"]
+	path = Folder_A/Folder_A_B/submodule_test_child_repo
+	url = https://github.com/summer20100514/submodule_test_child_repo.git
+	branch = master
